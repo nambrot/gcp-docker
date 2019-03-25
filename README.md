@@ -1,2 +1,2 @@
 # gcp-docker
-gcp docker file without an entry point
+A Dockerfile containing just gcloud and kubectl
